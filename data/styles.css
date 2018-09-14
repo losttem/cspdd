@@ -28,8 +28,6 @@
 }
 .placeholder {
 }
-.button {
-}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -78,13 +76,6 @@
 .paragraph {
   text-align:left;
 }
-.text_link {
-  color:#0000FF;
-}
-.text_link_mouse_over {
-}
-.text_link_mouse_down {
-}
 .line {
 }
 .arrow {
@@ -112,6 +103,15 @@
 }
 .table_cell {
 }
+._连接符 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .menu_item {
 }
 .sticky_2 {
@@ -124,34 +124,5 @@
   text-align:left;
 }
 .marker {
-  color:#FFFFFF;
-}
-.paragraph1 {
-  text-align:left;
-}
-.heading_11 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:32px;
-  text-align:left;
-}
-.shape1 {
-}
-.image1 {
-  color:#000000;
-}
-.vertical_line {
-}
-.icon {
-}
-._文本段落 {
-  text-align:left;
-}
-._图片 {
-}
-._形状 {
-}
-.primary_button {
   color:#FFFFFF;
 }
